@@ -14,3 +14,6 @@
 
 ## Assignment 5
 ### [Report](src/as5/README.md)
+
+## Assignment 6
+### [Report](src/as6/README.md)
